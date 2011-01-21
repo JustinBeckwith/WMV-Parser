@@ -1,0 +1,5 @@
+c:\users\beckwith\Code\WMVParse\obj\Debug\ResolveAssemblyReference.cache
+c:\users\beckwith\Code\WMVParse\bin\Debug\com.jbeckwith.wmv.dll
+c:\users\beckwith\Code\WMVParse\bin\Debug\com.jbeckwith.wmv.pdb
+c:\users\beckwith\Code\WMVParse\obj\Debug\com.jbeckwith.wmv.dll
+c:\users\beckwith\Code\WMVParse\obj\Debug\com.jbeckwith.wmv.pdb
